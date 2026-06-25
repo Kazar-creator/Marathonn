@@ -1,0 +1,9 @@
+# Credenziali del database e chiavi di configurazione locali
+.env
+config.local.php
+config.php
+connect.php
+
+# File di sistema (Mac e Windows)
+.DS_Store
+Thumbs.db
