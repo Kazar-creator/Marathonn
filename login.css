@@ -1,0 +1,58 @@
+.login {
+  align-items: center; 
+  text-align: center;
+  margin: 0 auto;
+  border-color: rgb(129, 71, 0);
+  background-color: #0f0f1a;
+  padding: 200px;
+}
+
+.text {
+    margin: 40px;
+    color: rgb(134, 134, 255);
+    padding: 10px;
+    text-decoration: none;
+}
+
+.div1 {
+    border-color: rgb(92, 50, 0);
+    background-color: #1a1a2e;
+    width: 330px;
+    height: 420px;
+    align-items: center; 
+    text-align: center;
+    margin: 0 auto;
+}
+
+.div2 {
+    border-color: white;
+    background-color: #1a1a2e;
+    width: 330px;
+    height: 550px;
+    border-radius: 0px;;
+    align-items: center; 
+    text-align: center;
+    margin: 0 auto;
+}
+
+.text1 {
+    margin-top: 20px;
+    padding: 10px;
+    width: 250px;
+}
+
+.text2 {
+    margin-top: 60px;
+    margin-bottom: 40px;
+    padding: 10px;
+    width: 250px;
+    background-color: rgb(255, 0, 0);
+    color: rgb(255, 255, 255);
+}
+
+.title {
+    padding: 20px; 
+    color: blue;
+    text-decoration: none;
+}
+
